@@ -1,4 +1,4 @@
-package kr.jhb.androidpushktsample
+package kr.aws.pinpoint
 
 import android.content.Context
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package kr.jhb.androidpushktsample
+package kr.aws.pinpoint
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
