@@ -10,4 +10,4 @@ $ amplify push
 Put your `google-service.json` file into the project.
 
 
-! `google-service.json` should include `kr.jhb.androidpushktsample` package.
+! `google-service.json` should include `kr.aws.pinpoint` package.
